@@ -1,0 +1,13 @@
+.container{
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 8--px;
+}
+.box{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    font-size: 4em;
+}
